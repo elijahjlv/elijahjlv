@@ -43,13 +43,7 @@ I thrive on creating cutting-edge applications and tools that push boundaries. W
 ---
 
 ## 📊 GitHub Stats  
-## 📊 Yearly GitHub Stats  
-
-![Elijah's 2023 Contributions](https://streak-stats.demolab.com/?user=elijahjlv&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&year=2023)  
-
-![Elijah's 2024 Contributions](https://streak-stats.demolab.com/?user=elijahjlv&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&year=2024)  
-
-![Elijah's 2025 Contributions](https://streak-stats.demolab.com/?user=elijahjlv&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&year=2025)
+![Elijah's Total Commits](https://github-readme-stats.vercel.app/api?username=elijahjlv&show_icons=true&theme=radical&hide=prs,issues,contribs,stars)
 
 
 ---
