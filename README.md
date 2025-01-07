@@ -43,8 +43,9 @@ I thrive on creating cutting-edge applications and tools that push boundaries. W
 ---
 
 ## 📊 GitHub Stats  
-![Elijah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
+![Elijah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=elijahjlv&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elijahjlv&layout=compact&theme=radical)  
+
 
 ---
 
